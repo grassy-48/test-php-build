@@ -1,0 +1,8 @@
+{
+    "name": "grassy-48/test-php-build",
+    "description": "test php build",
+    "type": "project",
+    "require": {
+        "psr/log": "^1.0"
+    }
+}
